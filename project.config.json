@@ -6,13 +6,27 @@
 	"setting": {
 		"urlCheck": true,
 		"es6": true,
+		"enhance": true,
 		"postcss": true,
+		"preloadBackgroundData": false,
 		"minified": true,
-		"newFeature": true
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.5.1",
-	"appid": "wx9350d33afdf04d45",
+	"libVersion": "2.10.2",
+	"appid": "wxf992ffc1e378d799",
 	"projectname": "wxa-comp-canvas-drag",
 	"isGameTourist": false,
 	"simulatorType": "wechat",
